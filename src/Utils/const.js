@@ -2,7 +2,7 @@ const projectImages = [
   require("../images/project.png"),
   require("../images/project-2.png"),
   require("../images/project-3.png"),
-  require("../images/project-4.gif")
+  require("../images/project-4.png")
 ];
 const cvPicture = require("../images/profile-image.jpg");
 const close = require("../images/close.png");
