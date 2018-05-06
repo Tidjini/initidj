@@ -335,6 +335,7 @@ footer {
 }
 
 .cv-personal {
+  position: relative;
   float: left;
   width: 250px;
   height: 100%;
@@ -352,7 +353,7 @@ footer {
 
 .cv-personal-information {
   position: absolute;
-  bottom: 0;
+  bottom: 1;
 }
 .cv-personal-information-element {
   text-align: left;

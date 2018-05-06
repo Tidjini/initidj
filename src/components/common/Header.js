@@ -14,7 +14,7 @@ export default ({ onHomeClick, onCvClick }) => {
         <nav>
           <ul>
             <li>
-              <a href="#" onclick={onHomeClick}>
+              <a href="#" onClick={onHomeClick}>
                 Home
               </a>
             </li>
@@ -28,7 +28,7 @@ export default ({ onHomeClick, onCvClick }) => {
               </a>
             </li>
             <li>
-              <a href="#" id="display-cv" onclick={onCvClick}>
+              <a href="#" id="display-cv" onClick={onCvClick}>
                 Cv
               </a>
             </li>
