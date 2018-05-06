@@ -42,23 +42,19 @@ class App extends Component {
           <Project
             projectName="Instashop"
             projectImage={projectImages[0]}
-            projectDescription="You're craving but feeling lazy to leave home and the fridge is empty? There's a new kind of food delivery in New York."
+            projectDescription="Create your best shopping app with beautiful UI and best UX, dont waste your time contact me :)."
             active
           />
           <Project
-            projectName="Instashop"
+            projectName="Faceshop"
             projectImage={projectImages[1]}
-            projectDescription="You're craving but feeling lazy to leave home and the fridge is empty? There's a new kind of food delivery in New York."
+            projectDescription="More shopping UI, create app that can register stores and sales items"
           />
+
           <Project
-            projectName="Instashop"
-            projectImage={projectImages[2]}
-            projectDescription="You're craving but feeling lazy to leave home and the fridge is empty? There's a new kind of food delivery in New York."
-          />
-          <Project
-            projectName="Instashop"
+            projectName="Socialme"
             projectImage={projectImages[3]}
-            projectDescription="You're craving but feeling lazy to leave home and the fridge is empty? There's a new kind of food delivery in New York."
+            projectDescription="Need to build social app with profile, content and other awsome staff"
           />
           <Footer />
         </div>
