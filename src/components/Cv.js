@@ -26,7 +26,7 @@ export default ({ display, onHideCv }) => {
           <img src={download} alt="" />
         </a>
       </div>
-      <div className="cv  slideInUp animated">
+      <div className="cv ">
         <div className="cv-personal slideInLeft animated">
           <img src={cvPicture} className="cv-image" />
           <div className="cv-personal-information">
@@ -65,8 +65,8 @@ export default ({ display, onHideCv }) => {
           </div>
         </div>
 
-        <div className="cv-right-side">
-          <div className="cv-information fadeIn animated">
+        <div className="cv-right-side slideInUp fadeIn animated">
+          <div className="cv-information ">
             <h1>EDUCATION</h1>
             <div className="cv-information-element">
               <h3>Master en informatique</h3>
